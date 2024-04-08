@@ -1,0 +1,97 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #0979f0;
+}
+
+header {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 20px 0;
+}
+
+header h1 {
+  margin: 0;
+}
+
+header img {
+  border-radius: 50%;
+  margin-top: 10px;
+}
+
+.main-content {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+  padding: 20px;
+}
+
+.section-container {
+  flex: 1;
+  background-color: #fff;
+  margin: 10px;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+  color: #333;
+}
+
+.skills-description {
+  color: brown;
+}
+
+.leadership-description {
+  color: rgb(45, 45, 121);
+}
+
+.programming-languages {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+footer {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 20px 0;
+}
+
+.social-links {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.social-links li {
+  display: inline;
+  margin-right: 10px;
+}
+
+.social-links li a {
+  color: #fff;
+  text-decoration: none;
+}
+
+footer h3 {
+  margin: 10px 0;
+}
+
+footer h3 a {
+  color: #fff;
+  text-decoration: none;
+  background-color: #007bff;
+  padding: 10px 20px;
+  border-radius: 5px;
+  display: inline-block;
+}
+
+footer h3 a:hover {
+  background-color: #0056b3;
+}

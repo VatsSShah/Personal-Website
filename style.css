@@ -1,0 +1,39 @@
+/*styling for all h1 elements*/
+h1 {
+  text-align: center;
+  font-size: 40px;
+}
+/*styling for all h2 elements*/
+h2 {
+  color: #6e8b23;
+  text-align: center;
+  font-size: 35px;
+  margin-top: 20px;
+}
+/*styling for all p elements*/
+p {
+  color: #556b2f;
+  text-align: center;
+  font-size: 23px;
+  line-height: 1.5;
+}
+/*styling for all ul elements*/
+ul {
+  list-style-type: square;
+  margin-left: 20px;
+  text-align: center;
+}
+/*styling for all li elements*/
+li {
+  text-align: center;
+  font-size: 25px;
+}
+/*styling for all anchor elements*/
+a {
+  color: blue;
+  text-decoration: none;
+}
+/*styling for all strong elements*/
+strong {
+  font-size: 30px;
+}
